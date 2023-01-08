@@ -1,4 +1,4 @@
-# OpenGLPRJ
+# OpenGL PRJ
 To build, unzip SunTemple_Texture_PS_GLSL\Scene\SunTemple.zip
 
 In temple map, creating 3D objects and making many effects, and controlling camera
